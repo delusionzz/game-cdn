@@ -3,228 +3,266 @@
     "name": "Tall Man Run",
     "path": "/games/html/tall-man-run/index.html",
     "type": "html",
-    "img": "/games/images/tall-man-run.webp"
+    "img": "/games/images/tall-man-run.webp",
+    "visible": false
   },
   {
     "name": "Cut the Rope",
     "path": "/games/html/cut-the-rope/index.html",
     "type": "html",
-    "img": "/games/images/cut-the-rope.webp"
+    "img": "/games/images/cut-the-rope.webp",
+    "visible": false
   },
   {
     "name": "Draw Climber",
     "path": "/games/html/draw-climber/index.html",
     "type": "html",
-    "img": "/games/images/draw-climber.webp"
+    "img": "/games/images/draw-climber.webp",
+    "visible": false
   },
   {
     "name": "2048",
     "path": "/games/html/2048/index.html",
     "type": "html",
-    "img": "/games/images/2048.webp"
+    "img": "/games/images/2048.webp",
+    "visible": true
   },
   {
     "name": "Bitlife",
     "path": "/games/html/bitlife/index.html",
     "type": "html",
-    "img": "/games/images/bitlife.webp"
+    "img": "/games/images/bitlife.webp",
+    "visible": true
   },
   {
     "name": "Cookie Clicker",
     "path": "/games/html/cookie-clicker/index.html",
     "type": "html",
-    "img": "/games/images/cookie-clicker.webp"
+    "img": "/games/images/cookie-clicker.webp",
+    "visible": true
   },
   {
     "name": "Mr Racer",
     "path": "/games/html/mr-racer/index.html",
     "type": "html",
-    "img": "/games/images/mr-racer.webp"
+    "img": "/games/images/mr-racer.webp",
+    "visible": true
   },
   {
     "name": "Ages of Conflict",
     "path": "/games/html/ages-of-conflict/index.html",
     "type": "html",
-    "img": "/games/images/ages-of-conflict.webp"
+    "img": "/games/images/ages-of-conflict.webp",
+    "visible": true
   },
   {
     "name": "Tiny Fishing",
     "path": "/games/html/tiny-fishing/index.html",
     "type": "html",
-    "img": "/games/images/tiny-fishing.webp"
+    "img": "/games/images/tiny-fishing.webp",
+    "visible": true
   },
   {
     "name": "Google Solitaire",
     "path": "/games/html/google-solitaire/index.html",
     "type": "html",
-    "img": "/games/images/google-solitaire.webp"
+    "img": "/games/images/google-solitaire.webp",
+    "visible": true
   },
   {
     "name": "Basketball Stars",
     "path": "/games/html/basketballstars/index.html",
     "type": "html",
-    "img": "/games/images/basketballstars.webp"
+    "img": "/games/images/basketballstars.webp",
+    "visible": true
   },
   {
     "name": "Geometry Dash Lite",
     "path": "/games/html/geometry-dash-lite/index.html",
     "type": "html",
-    "img": "/games/images/geometrydash.webp"
+    "img": "/games/images/geometrydash.webp",
+    "visible": true
   },
   {
     "name": "Gladihoppers",
     "path": "/games/html/gladihoppers/index.html",
     "type": "html",
-    "img": "/games/images/gladihoppers.webp"
+    "img": "/games/images/gladihoppers.webp",
+    "visible": true
   },
   {
     "name": "8 Ball Pool",
     "type": "flash",
     "path": "/games/swf/8BallPool.swf",
-    "img": "/games/images/8BallPool.webp"
+    "img": "/games/images/8BallPool.webp",
+    "visible": true
   },
   {
     "name": "Papas Bakeria",
     "type": "flash",
     "path": "/games/swf/papasbakeria.swf",
-    "img": "/games/images/papasbakeria.webp"
+    "img": "/games/images/papasbakeria.webp",
+    "visible": true
   },
   {
     "name": "Papas Burgeria",
     "type": "flash",
     "path": "/games/swf/papasburgeria.swf",
-    "img": "/games/images/papasburgeria.webp"
+    "img": "/games/images/papasburgeria.webp",
+    "visible": true
   },
   {
     "name": "Papas Cheeseria",
     "type": "flash",
     "path": "/games/swf/papascheeseria.swf",
-    "img": "/games/images/papascheeseria.webp"
+    "img": "/games/images/papascheeseria.webp",
+    "visible": true
   },
   {
     "name": "Papas Cupcakeria",
     "type": "flash",
     "path": "/games/swf/papascupcakeria.swf",
-    "img": "/games/images/papascupcakeria.webp"
+    "img": "/games/images/papascupcakeria.webp",
+    "visible": true
   },
   {
     "name": "Papas Donuteria",
     "type": "flash",
     "path": "/games/swf/papasdonuteria.swf",
-    "img": "/games/images/papasdonuteria.webp"
+    "img": "/games/images/papasdonuteria.webp",
+    "visible": true
   },
   {
     "name": "Papas Freezeria",
     "type": "flash",
     "path": "/games/swf/papasfreezeria.swf",
-    "img": "/games/images/papasfreezeria.webp"
+    "img": "/games/images/papasfreezeria.webp",
+    "visible": true
   },
   {
     "name": "Papas Pastaria",
     "type": "flash",
     "path": "/games/swf/papaspastaria.swf",
-    "img": "/games/images/papaspastaria.webp"
+    "img": "/games/images/papaspastaria.webp",
+    "visible": true
   },
   {
     "name": "Papas Pizzeria",
     "type": "flash",
     "path": "/games/swf/papaspizzeria.swf",
-    "img": "/games/images/papaspizzeria.webp"
+    "img": "/games/images/papaspizzeria.webp",
+    "visible": true
   },
   {
     "name": "Papas Scooperia",
     "type": "flash",
     "path": "/games/swf/papasscooperia.swf",
-    "img": "/games/images/papasscooperia.webp"
+    "img": "/games/images/papasscooperia.webp",
+    "visible": true
   },
   {
     "name": "Bloons TD 1",
     "type": "flash",
     "path": "/games/swf/btd1.swf",
-    "img": "/games/images/btd.webp"
+    "img": "/games/images/btd.webp",
+    "visible": true
   },
   {
     "name": "Bloons TD 2",
     "type": "flash",
     "path": "/games/swf/btd2.swf",
-    "img": "/games/images/btd2.webp"
+    "img": "/games/images/btd2.webp",
+    "visible": true
   },
   {
     "name": "Bloons TD 3",
     "type": "flash",
     "path": "/games/swf/btd3.swf",
-    "img": "/games/images/btd3.webp"
+    "img": "/games/images/btd3.webp",
+    "visible": true
   },
   {
     "name": "Bloons TD 4",
     "type": "flash",
     "path": "/games/swf/btd4.swf",
-    "img": "/games/images/btd4.webp"
+    "img": "/games/images/btd4.webp",
+    "visible": true
   },
   {
     "name": "Bloons TD 5",
     "type": "flash",
     "path": "/games/swf/btd5.swf",
-    "img": "/games/images/btd5.webp"
+    "img": "/games/images/btd5.webp",
+    "visible": true
   },
   {
     "name": "Duck Life 1",
     "type": "flash",
     "path": "/games/swf/ducklife.swf",
-    "img": "/games/images/ducklife.webp"
+    "img": "/games/images/ducklife.webp",
+    "visible": true
   },
   {
     "name": "Duck Life 2",
     "type": "flash",
     "path": "/games/swf/ducklife2.swf",
-    "img": "/games/images/ducklife2.webp"
+    "img": "/games/images/ducklife2.webp",
+    "visible": true
   },
   {
     "name": "Duck Life 3",
     "type": "flash",
     "path": "/games/swf/ducklife3.swf",
-    "img": "/games/images/ducklife3.webp"
+    "img": "/games/images/ducklife3.webp",
+    "visible": true
   },
   {
     "name": "Duck Life 4",
     "type": "flash",
     "path": "/games/swf/ducklife4.swf",
-    "img": "/games/images/ducklife4.webp"
+    "img": "/games/images/ducklife4.webp",
+    "visible": true
   },
   {
     "name": "Duck Life 5",
     "type": "flash",
     "path": "/games/swf/ducklife5.swf",
-    "img": "/games/images/ducklife5.webp"
+    "img": "/games/images/ducklife5.webp",
+    "visible": true
   },
   {
     "name": "Eaglercraft 1.5.2",
     "path": "/games/html/eaglercraft152/index.html",
     "type": "html",
-    "img": "/games/images/eaglercraft.webp"
+    "img": "/games/images/eaglercraft.webp",
+    "visible": true
   },
   {
     "name": "Eaglercraft 1.8.8",
     "path": "/games/html/eaglercraft188/index.html",
     "type": "html",
-    "img": "/games/images/eaglercraft.webp"
+    "img": "/games/images/eaglercraft.webp",
+    "visible": true
   },
   {
     "name": "OvO v1.4",
     "path": "/games/html/ovo14/index.html",
     "type": "html",
-    "img": "/games/images/ovo.webp"
+    "img": "/games/images/ovo.webp",
+    "visible": true
   },
   {
     "name": "OvO v1.4.4b",
     "path": "/games/html/ovo144b/index.html",
     "type": "html",
-    "img": "/games/images/ovo.webp"
+    "img": "/games/images/ovo.webp",
+    "visible": true
   },
   {
     "name": "Cell Machine",
     "path": "/games/html/cell-machine/index.html",
     "type": "html",
-    "img": "/games/images/cell-machine.webp"
+    "img": "/games/images/cell-machine.webp",
+    "visible": true
   }
 ]

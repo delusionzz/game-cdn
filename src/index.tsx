@@ -7,6 +7,7 @@ type Game = {
   name: string;
   path: string;
   type: string;
+  visible: boolean;
   img: string;
 };
 
@@ -15,7 +16,6 @@ const app = new Elysia()
   .use(
     staticPlugin({
       prefix: "/games",
-      // alwaysStatic: true,
     })
   )
   .get("/list", () => Bun.file("./src/list.json"))
@@ -27,7 +27,7 @@ const app = new Elysia()
       </head>
       <body class="w-full min-h-screen flex flex-col items-center justify-center bg-slate-800">
         <h1 class="text-3xl text-white">Delusionz CDN Games</h1>
-        <div class="flex flex-wrap w-full justify-center">
+        <div class="flex flex-wrap w-full justify-center items-center overflow-y-auto">
           {list.map((game: Game) => (
             <div class="m-2 p-2 bg-slate-700 rounded flex w-[20rem] min-h-[10rem] group space-x-2">
               <img
