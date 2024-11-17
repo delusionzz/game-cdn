@@ -60,9 +60,99 @@
     "img": "/games/images/google-solitaire.webp"
   },
   {
+    "name": "Basketball Stars",
+    "path": "/games/html/basketballstars/index.html",
+    "type": "html",
+    "img": "/games/images/basketballstars.webp"
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "path": "/games/html/geometry-dash-lite/index.html",
+    "type": "html",
+    "img": "/games/images/geometrydash.webp"
+  },
+  {
+    "name": "Gladihoppers",
+    "path": "/games/html/gladihoppers/index.html",
+    "type": "html",
+    "img": "/games/images/gladihoppers.webp"
+  },
+  {
     "name": "8 Ball Pool",
     "type": "flash",
     "path": "/games/swf/8BallPool.swf",
     "img": "/games/images/8BallPool.webp"
+  },
+  {
+    "name": "Bloons TD 1",
+    "type": "flash",
+    "path": "/games/swf/btd1.swf",
+    "img": "/games/images/btd.webp"
+  },
+  {
+    "name": "Bloons TD 2",
+    "type": "flash",
+    "path": "/games/swf/btd2.swf",
+    "img": "/games/images/btd2.webp"
+  },
+  {
+    "name": "Bloons TD 3",
+    "type": "flash",
+    "path": "/games/swf/btd3.swf",
+    "img": "/games/images/btd3.webp"
+  },
+  {
+    "name": "Bloons TD 4",
+    "type": "flash",
+    "path": "/games/swf/btd4.swf",
+    "img": "/games/images/btd4.webp"
+  },
+  {
+    "name": "Bloons TD 5",
+    "type": "flash",
+    "path": "/games/swf/btd5.swf",
+    "img": "/games/images/btd5.webp"
+  },
+  {
+    "name": "Duck Life 1",
+    "type": "flash",
+    "path": "/games/swf/ducklife.swf",
+    "img": "/games/images/ducklife.webp"
+  },
+  {
+    "name": "Duck Life 2",
+    "type": "flash",
+    "path": "/games/swf/ducklife2.swf",
+    "img": "/games/images/ducklife2.webp"
+  },
+  {
+    "name": "Duck Life 3",
+    "type": "flash",
+    "path": "/games/swf/ducklife3.swf",
+    "img": "/games/images/ducklife3.webp"
+  },
+  {
+    "name": "Duck Life 4",
+    "type": "flash",
+    "path": "/games/swf/ducklife4.swf",
+    "img": "/games/images/ducklife4.webp"
+  },
+  {
+    "name": "Duck Life 5",
+    "type": "flash",
+    "path": "/games/swf/ducklife5.swf",
+    "img": "/games/images/ducklife5.webp"
+  },
+  {
+    "name": "Eaglercraft 1.5.2",
+    "path": "/games/html/eaglercraft152/index.html",
+    "type": "html",
+    "img": "/games/images/eaglercraft.webp"
+  },
+  {
+    "name": "Eaglercraft 1.8.8",
+    "path": "/games/html/eaglercraft188/index.html",
+    "type": "html",
+    "img": "/games/images/eaglercraft.webp"
   }
 ]
