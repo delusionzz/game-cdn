@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <style>
+      *{overflow: hidden;}
+    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Cell Machine | 3kh0</title>
+    <link rel="shortcut icon" href="img/icon.png">
+    <link rel="icon" href="img/icon.png">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script src="/js/main.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/webv0_1_1.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content" style="height: 100vh; width: 100vw; margin: 0; padding: 0; border: 0;">
+      <div id="unityContainer" style="height: 100vh; width: 100vw; margin: 0; padding: 0; border: 0;"></div>
+    </div>
+  </body>
+</html>
