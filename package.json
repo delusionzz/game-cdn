@@ -1,0 +1,22 @@
+{
+  "name": "Game-CDN",
+  "version": "1.0.50",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --watch src/index.tsx",
+    "start": "bun run src/index.tsx",
+    "dev:tailwind": "tailwindcss -i ./src/in.css -o ./public/output.css --watch"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^1.1.1",
+    "@elysiajs/static": "^1.1.1",
+    "elysia": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "bun-types": "latest",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  },
+  "module": "src/index.js"
+}

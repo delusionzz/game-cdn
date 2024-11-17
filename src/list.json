@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Tall Man Run",
+    "path": "/games/html/tall-man-run/index.html",
+    "type": "html",
+    "img": "/games/images/tall-man-run.webp"
+  },
+  {
+    "name": "Cut the Rope",
+    "path": "/games/html/cut-the-rope/index.html",
+    "type": "html",
+    "img": "/games/images/cut-the-rope.webp"
+  },
+  {
+    "name": "Draw Climber",
+    "path": "/games/html/draw-climber/index.html",
+    "type": "html",
+    "img": "/games/images/draw-climber.webp"
+  },
+  {
+    "name": "2048",
+    "path": "/games/html/2048/index.html",
+    "type": "html",
+    "img": "/games/images/2048.webp"
+  },
+  {
+    "name": "Bitlife",
+    "path": "/games/html/bitlife/index.html",
+    "type": "html",
+    "img": "/games/images/bitlife.webp"
+  },
+  {
+    "name": "Cookie Clicker",
+    "path": "/games/html/cookie-clicker/index.html",
+    "type": "html",
+    "img": "/games/images/cookie-clicker.webp"
+  },
+  {
+    "name": "Mr Racer",
+    "path": "/games/html/mr-racer/index.html",
+    "type": "html",
+    "img": "/games/images/mr-racer.webp"
+  },
+  {
+    "name": "Ages of Conflict",
+    "path": "/games/html/ages-of-conflict/index.html",
+    "type": "html",
+    "img": "/games/images/ages-of-conflict.webp"
+  },
+  {
+    "name": "Tiny Fishing",
+    "path": "/games/html/tiny-fishing/index.html",
+    "type": "html",
+    "img": "/games/images/tiny-fishing.webp"
+  },
+  {
+    "name": "Google Solitaire",
+    "path": "/games/html/google-solitaire/index.html",
+    "type": "html",
+    "img": "/games/images/google-solitaire.webp"
+  },
+  {
+    "name": "8 Ball Pool",
+    "type": "flash",
+    "path": "/games/swf/8BallPool.swf",
+    "img": "/games/images/8BallPool.webp"
+  }
+]
