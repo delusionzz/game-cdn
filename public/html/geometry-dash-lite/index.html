@@ -1,0 +1,110 @@
+<html lang="en-us"><link type="text/css" rel="stylesheet" id="dark-mode-custom-link"><link type="text/css" rel="stylesheet" id="dark-mode-general-link"><style lang="en" type="text/css" id="dark-mode-custom-style"></style><style lang="en" type="text/css" id="dark-mode-native-style"></style><style lang="en" type="text/css" id="dark-mode-native-sheet"></style><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500&amp;display=swap" rel="stylesheet">
+  <title>Geometry Lite Full Version</title>
+  <style type="text/css">
+    *{
+		margin: 0;
+		padding: 0;
+		background-color: black;
+		color: white;
+		overflow: hidden;
+	}
+  </style>
+</head>
+
+<body>
+<canvas id="#canvas" style="cursor: default; width: 100vw; height: 100vh;"></canvas> 
+
+<div class="gameloader">
+<div style="transform: translateY(-32px);">
+	<div style="position:absolute;transform: translateY(16px);" class="gameloader-game-name">Geometry Lite Full Version</div>
+	<div style="position:absolute;" class="gameloader-progress-info">Downloading file: 100%</div>
+</div>
+
+<div class="jss32 gameloader-logo">
+<div class="gameloader-progressbar">
+<div class="gameloader-progressbar-progress" id="progress_fill" style="width: 100%;"></div>
+</div>
+
+	<script id="gmsoft-jssdk" src="https://api.1games.io/gmsoftsdk.js?v=1.5"></script><script type="text/javascript">
+		var buildUrl = "./Build";
+		var loaderUrl = buildUrl + "/geometry-lite-v2.loader.js";
+		var config = {
+		dataUrl: buildUrl + "/geometry-lite-v2.data.unityweb",
+		frameworkUrl: buildUrl + "/geometry-lite-v2.framework.js.unityweb",
+		codeUrl: buildUrl + "/geometry-lite-v2.wasm.unityweb",
+				streamingAssetsUrl: "StreamingAssets",
+		companyName: "1games.io",
+		productName: "Geometry Lite Full Version",
+		productVersion: "2.4",
+		};
+
+		var progressElement = document.getElementById('progress_fill');
+		var canvas =  document.getElementById("#canvas");
+		var loadingBar = document.querySelector("#loadingBlock");
+		var progressBarFull = document.querySelector("#progress_fill");
+		var progress_text = document.querySelector(".gameloader-progress-info");
+		 let text_percent = "";
+
+		 
+		 
+
+		var script = document.createElement("script");
+		script.src = loaderUrl;
+		script.onload = () => {
+		createUnityInstance(canvas, config, (progress) => {
+		  progressElement.style.width = 100 * progress + "%";
+			text_percent = "Downloading file: " + Math.round(progress*100) + "%";
+			progress_text.innerText = text_percent;
+			if (progress >= 99) {
+			  progress_text.innerText = "Game Loading ...";
+			}
+		}).then((unityInstance) => {
+		  window.unityInstance = unityInstance;
+		  setTimeout(function() {
+				loadingBar.style.display = "none";
+			}, 2000);
+		}).catch((message) => {
+		  alert(message);
+		});
+		};
+		document.body.appendChild(script);
+	</script>
+	
+		<script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-app-compat.js" type="text/javascript"></script>
+	<script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore-compat.js" type="text/javascript"></script>
+	<script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-auth-compat.js" type="text/javascript"></script>
+	<script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-analytics-compat.js" type="text/javascript"></script>
+
+	<script type="module">
+	  // Import the functions you need from the SDKs you need
+	  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+	  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-analytics.js";
+	  import { getAuth  } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-auth.js";
+	  // TODO: Add SDKs for Firebase products that you want to use
+	  // https://firebase.google.com/docs/web/setup#available-libraries
+
+	  // Your web app's Firebase configuration
+	  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+	  const firebaseConfig = {
+		apiKey: "AIzaSyD1uf7Hm-wTPswOjA8YvvEgUSt5JOb2QAI",
+		authDomain: "geometry-lite-v2.firebaseapp.com",
+		projectId: "geometry-lite-v2",
+		storageBucket: "geometry-lite-v2.appspot.com",
+		messagingSenderId: "690168083283",
+		appId: "1:690168083283:web:7e09a82ff0e0adccfae7a6",
+		measurementId: "G-22407FY17B"
+	  };
+	  // Initialize Firebase
+		
+	  const app = firebase.initializeApp(firebaseConfig);
+	  const auth = getAuth(app);
+	</script>
+	
+	 
+
+
+<script src="./Build/geometry-lite-v2.loader.js"></script></body></html>
