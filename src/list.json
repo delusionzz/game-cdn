@@ -84,6 +84,60 @@
     "img": "/games/images/8BallPool.webp"
   },
   {
+    "name": "Papas Bakeria",
+    "type": "flash",
+    "path": "/games/swf/papasbakeria.swf",
+    "img": "/games/images/papasbakeria.webp"
+  },
+  {
+    "name": "Papas Burgeria",
+    "type": "flash",
+    "path": "/games/swf/papasburgeria.swf",
+    "img": "/games/images/papasburgeria.webp"
+  },
+  {
+    "name": "Papas Cheeseria",
+    "type": "flash",
+    "path": "/games/swf/papascheeseria.swf",
+    "img": "/games/images/papascheeseria.webp"
+  },
+  {
+    "name": "Papas Cupcakeria",
+    "type": "flash",
+    "path": "/games/swf/papascupcakeria.swf",
+    "img": "/games/images/papascupcakeria.webp"
+  },
+  {
+    "name": "Papas Donuteria",
+    "type": "flash",
+    "path": "/games/swf/papasdonuteria.swf",
+    "img": "/games/images/papasdonuteria.webp"
+  },
+  {
+    "name": "Papas Freezeria",
+    "type": "flash",
+    "path": "/games/swf/papasfreezeria.swf",
+    "img": "/games/images/papasfreezeria.webp"
+  },
+  {
+    "name": "Papas Pastaria",
+    "type": "flash",
+    "path": "/games/swf/papaspastaria.swf",
+    "img": "/games/images/papaspastaria.webp"
+  },
+  {
+    "name": "Papas Pizzeria",
+    "type": "flash",
+    "path": "/games/swf/papaspizzeria.swf",
+    "img": "/games/images/papaspizzeria.webp"
+  },
+  {
+    "name": "Papas Scooperia",
+    "type": "flash",
+    "path": "/games/swf/papasscooperia.swf",
+    "img": "/games/images/papasscooperia.webp"
+  },
+  {
     "name": "Bloons TD 1",
     "type": "flash",
     "path": "/games/swf/btd1.swf",
@@ -154,5 +208,23 @@
     "path": "/games/html/eaglercraft188/index.html",
     "type": "html",
     "img": "/games/images/eaglercraft.webp"
+  },
+  {
+    "name": "OvO v1.4",
+    "path": "/games/html/ovo14/index.html",
+    "type": "html",
+    "img": "/games/images/ovo.webp"
+  },
+  {
+    "name": "OvO v1.4.4b",
+    "path": "/games/html/ovo144b/index.html",
+    "type": "html",
+    "img": "/games/images/ovo.webp"
+  },
+  {
+    "name": "Cell Machine",
+    "path": "/games/html/cell-machine/index.html",
+    "type": "html",
+    "img": "/games/images/cell-machine.webp"
   }
 ]
