@@ -6,6 +6,7 @@
 
 ## Running
 
+First run `bun i` to install the dependencies needed to run this project.
 To run the dev server run the `bun dev` command and the dev server will be up at localhost:8000
 
 ## Adding games
