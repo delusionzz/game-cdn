@@ -264,5 +264,117 @@
     "type": "html",
     "img": "/games/images/cell-machine.webp",
     "visible": true
+  },
+  {
+    "name": "Coreball",
+    "path": "/games/html/coreball/index.html",
+    "type": "html",
+    "img": "/games/images/coreball.webp",
+    "visible": true
+  },
+  {
+    "name": "Doom",
+    "path": "/games/html/doom/index.html",
+    "type": "html",
+    "img": "/games/images/doom.webp",
+    "visible": true
+  },
+  {
+    "name": "Five Nights At Winstons",
+    "path": "/games/html/fnaw/index.html",
+    "type": "html",
+    "img": "/games/images/fnaw.webp",
+    "visible": true
+  },
+  {
+    "name": "Just One Boss",
+    "path": "/games/html/justoneboss/index.html",
+    "type": "html",
+    "img": "/games/images/justoneboss.webp",
+    "visible": true
+  },
+  {
+    "name": "Evil Glitch",
+    "path": "/games/html/evilglitch/index.html",
+    "type": "html",
+    "img": "/games/images/evilglitch.webp",
+    "visible": true
+  },
+  {
+    "name": "Ninja Vs Evil Corp",
+    "path": "/games/html/ninjavsevilcorp/index.html",
+    "type": "html",
+    "img": "/games/images/ninjavsevilcorp.webp",
+    "visible": true
+  },
+  {
+    "name": "Infinite Craft",
+    "path": "/games/html/infinitecraft/index.html",
+    "type": "html",
+    "img": "/games/images/infinitecraft.webp",
+    "visible": true
+  },
+  {
+    "name": "Drift Boss",
+    "path": "/games/html/driftboss/index.html",
+    "type": "html",
+    "img": "/games/images/driftboss.webp",
+    "visible": true
+  },
+  {
+    "name": "Dogeminer",
+    "path": "/games/html/dogeminer/index.html",
+    "type": "html",
+    "img": "/games/images/dogeminer.webp",
+    "visible": true
+  },
+  {
+    "name": "Awesome Tanks 2",
+    "path": "/games/html/awesometanks2/index.html",
+    "type": "html",
+    "img": "/games/images/awesometanks2.webp",
+    "visible": true
+  },
+  {
+    "name": "60s Burger Run",
+    "path": "/games/html/60sburgerrun/index.html",
+    "type": "html",
+    "img": "/games/images/60sburgerrun.webp",
+    "visible": true
+  },
+  {
+    "name": "Among Us",
+    "path": "/games/html/amongus/index.html",
+    "type": "html",
+    "img": "/games/images/amongus.webp",
+    "visible": true
+  },
+  {
+    "name": "Diggy",
+    "path": "/games/html/diggy/index.html",
+    "type": "html",
+    "img": "/games/images/diggy.webp",
+    "visible": true
+  },
+  {
+    "name": "Deepest Sword",
+    "path": "/games/html/deepestsword/index.html",
+    "type": "html",
+    "img": "/games/images/deepestsword.webp",
+    "visible": true
+  },
+  {
+    "name": "Unfair Mario",
+    "path": "/games/html/unfairmario/index.html",
+    "type": "html",
+    "img": "/games/images/unfairmario.webp",
+    "visible": true
+  },
+  {
+    "name": "A Dance Of Fire & Ice",
+    "path": "/games/html/adanceoffireandice/index.html",
+    "type": "html",
+    "img": "/games/images/adanceoffireandice.webp",
+    "visible": true
   }
 ]
